@@ -21,7 +21,7 @@ This Python project provides a simple `DatabaseManager` class to interact with a
 Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/database-manager.git
+   git clone https://github.com/taha-parsayan/Database-Manager-for-SQLite.git
    cd database-manager
    ```
 
@@ -105,7 +105,3 @@ if __name__ == "__main__":
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace `your-username` in the clone URL with your actual GitHub username. You can also expand the instructions based on your project's complexity or additional features.
