@@ -18,17 +18,11 @@ This Python project provides a simple `DatabaseManager` class to interact with a
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/your-username/database-manager.git
    cd database-manager
-   ```
-
-2. Install dependencies (if any):
-
-   ```bash
-   pip install -r requirements.txt  # If you have additional dependencies
    ```
 
 ## Usage
