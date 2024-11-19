@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Python-8A2BE2)
+![Static Badge](https://img.shields.io/badge/SQL-8A2BE2)
+
 # Database Manager for SQLite
 
 This Python project provides a simple `DatabaseManager` class to interact with an SQLite database. The class includes methods for creating tables, adding, deleting, updating, and checking the existence of items in the database. As an example, I have developed a login page with GUI employing these SQL functions.
